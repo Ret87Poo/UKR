@@ -1,2 +1,9 @@
 <html>
+<head>
+<title>TestPage</title>
+</head>
+<body>
+<p><input type="password" name="password" required="required"><Br>
+<button type="submit">Send password</button></p>
+</body>
 </html>
